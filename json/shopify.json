@@ -1,0 +1,17 @@
+{
+    "program_name": "Shopify",
+    "program_uri": "https://hackerone.com/shopify",
+    "reward_type" : "",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "myshopify.com", "scope" : "include" },
+      {"DnsRecord" : "www.myshopify.com", "scope" : "include" },
+      {"DnsRecord" : "ecommerce.shopify.com", "scope" : "include" },
+      {"DnsRecord" : "apps.shopify.com", "scope" : "include" },
+      {"DnsRecord" : "experts.shopify.com", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.shopify.mobile&hl=en", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/ca/app/shopify-pos-point-sale-for/id686830644?mt=8", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/ca/app/shopify-mobile/id371294472?mt=8", "scope" : "include" }
+    ]
+}

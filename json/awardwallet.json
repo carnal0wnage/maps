@@ -1,0 +1,12 @@
+{
+    "program_name": "AwardWallet",
+    "program_uri": "https://www.crowdcurity.com/awardwallet",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$350",
+    "scope": [
+      {"DnsRecord" : "www.AwardWallet.com", "scope" : "include" },
+      {"DnsRecord" : "AwardWallet.com", "scope" : "include" },
+      {"DnsRecord" : "https://service.awardwallet.com/wsdl/v4/?wsdl", "scope" : "include" }
+    ]
+}

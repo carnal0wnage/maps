@@ -1,0 +1,11 @@
+{
+    "program_name": "Slack",
+    "program_uri": "https://hackerone.com/slack",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "www.slack.com", "scope" : "include" },
+      {"DnsRecord" : "slack.com", "scope" : "include" }
+    ]
+}

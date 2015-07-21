@@ -1,0 +1,14 @@
+{
+    "program_name": "Snapchat",
+    "program_uri": "https://hackerone.com/snapchat",
+    "reward_type" : "",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "accounts.snapchat.com", "scope" : "include" },
+      {"DnsRecord" : "feelinsonice-hrd.appspot.com.", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.snapchat.android", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/snapchat/id447188370?mt=8", "scope" : "include" },
+      {"DnsRecord" : "support.snapchat.com", "scope" : "exclude" }
+    ]
+}

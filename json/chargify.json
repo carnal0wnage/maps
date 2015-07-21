@@ -1,0 +1,12 @@
+{
+    "program_name": "Chargify",
+    "program_uri": "https://bugcrowd.com/chargify",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "app.chargify.com", "scope" : "include" },
+      {"DnsRecord" : "chargify.com", "scope" : "exclude" },
+      {"DnsRecord" : "www.chargify.com", "scope" : "exclude" }
+    ]
+}

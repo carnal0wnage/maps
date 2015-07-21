@@ -1,0 +1,12 @@
+{
+    "program_name": "Amazon AWS",
+    "program_uri": "http://aws.amazon.com/security/vulnerability-reporting/",
+    "reward_type" : "Wall of fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.amazon.com", "scope" : "include" },
+      {"DnsRecord" : "amazon.com", "scope" : "include" },
+      {"DnsRecord" : "aws.amazon.com", "scope" : "include" }
+    ]
+}

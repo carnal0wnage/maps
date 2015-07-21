@@ -1,0 +1,11 @@
+{
+    "program_name": "iFixIt",
+    "program_uri": "https://www.ifixit.com/Info/Responsible_Disclosure",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKNOWN",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"DnsRecord" : "www.ifixit.com", "scope" : "include" },
+      {"DnsRecord" : "ifixit.com", "scope" : "include" }
+    ]
+}

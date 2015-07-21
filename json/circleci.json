@@ -1,0 +1,11 @@
+{
+    "program_name": "Circleci",
+    "program_uri": "https://circleci.com/security",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.circleci.com", "scope" : "include" },
+      {"DnsRecord" : "circleci.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "QuickBT",
+    "program_uri": "https://www.crowdcurity.com/quickbt",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 0",
+    "reward_high": "mB 1000",
+    "scope": [
+      {"DnsRecord" : "www.quickbt.com", "scope" : "include" },
+      {"DnsRecord" : "quickbt.com", "scope" : "include" }
+    ]
+}

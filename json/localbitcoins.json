@@ -1,0 +1,11 @@
+{
+    "program_name": "LocalBitcoins",
+    "program_uri": "https://www.crowdcurity.com/localbitcoins",
+    "reward_type" : "Dollars",
+    "reward_low": "0",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "www.localbitcoins.com", "scope" : "include" },
+      {"DnsRecord" : "localbitcoins.com", "scope" : "include" }
+    ]
+}

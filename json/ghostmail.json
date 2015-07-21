@@ -1,0 +1,10 @@
+{
+    "program_name": "GhostMail",
+    "program_uri": "https://hackerone.com/gmguys",
+    "reward_type" : "Dollars",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.ghostmail.com/", "scope" : "include" }
+    ]
+}

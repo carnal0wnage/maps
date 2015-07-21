@@ -1,0 +1,14 @@
+{
+    "program_name": "Robocoin",
+    "program_uri": "https://hackerone.com/robocoin",
+    "reward_type" : "",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "wallet.robocoin.com", "scope" : "include" },
+      {"DnsRecord" : "support.robocoin.com", "scope" : "exclude" },
+      {"DnsRecord" : "blog.robocoin.com", "scope" : "exclude" },
+      {"DnsRecord" : "www.robocoi.com", "scope" : "exclude" },
+      {"DnsRecord" : "robocoi.com", "scope" : "exclude" }
+    ]
+}

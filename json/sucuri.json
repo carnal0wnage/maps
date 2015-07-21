@@ -1,0 +1,11 @@
+{
+    "program_name": "Sucuri",
+    "program_uri": "https://hackerone.com/sucuri",
+    "reward_type" : "Dollars",
+    "reward_low": "$250",
+    "reward_high": "",
+    "scope": [
+    {"DnsRecord" : "www.sucuri.net", "scope" : "include" },
+    {"DnsRecord" : "sucuri.net", "scope" : "include" }
+    ]
+}

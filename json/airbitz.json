@@ -1,0 +1,13 @@
+{
+    "program_name": "Airbitz",
+    "program_uri": "https://www.crowdcurity.com/airbitz",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "app.auth.airbitz.co", "scope" : "include" },
+      {"DnsRecord" : "airbitz.co", "scope" : "exclude" },
+      {"DnsRecord" : "go.airbitz.co", "scope" : "exclude" },
+      {"DnsRecord" : "sync.airbitz.co", "scope" : "exclude" }
+    ]
+}

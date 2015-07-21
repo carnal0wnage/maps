@@ -1,0 +1,11 @@
+{
+    "program_name": "Uzbey",
+    "program_uri": "https://hackerone.com/uzbey",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "staging.uzbey.com", "scope" : "include" },
+      {"DnsRecord" : "staging.uzbey.com", "scope" : "exclude" }
+    ]
+}

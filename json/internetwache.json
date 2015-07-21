@@ -1,0 +1,11 @@
+{
+    "program_name": "internetwache",
+    "program_uri": "https://en.internetwache.org/security/",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.internetwache.org", "scope" : "include" },
+      {"DnsRecord" : "internetwache.org", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "program_name": "Hex-Rays",
+    "program_uri": "https://www.hex-rays.com/bugbounty.shtml",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "3000",
+    "scope": [
+      {"SoftwarePackage" : "https://www.hex-rays.com/products.shtml", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "program_name": "Card",
+    "program_uri": "https://bugcrowd.com/card",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$500",
+    "scope": [
+      {"DnsRecord" : "www.card.com", "scope" : "include" }
+    ]
+}

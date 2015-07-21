@@ -1,0 +1,15 @@
+{
+    "program_name": "Foursquare",
+    "program_uri": "https://foursquare.com/about/security",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : " ru.foursquare.com", "scope" : "include" },
+      {"DnsRecord" : "www.foursquare.com", "scope" : "include" },
+      {"DnsRecord" : "foursquare.com", "scope" : "include" },
+      {"DnsRecord" : "developers.foursquare.com", "scope" : "include" },
+      {"DnsRecord" : "blog.foursquare.com", "scope" : "exclude" },
+      {"DnsRecord" : "engineering.foursquare.com", "scope" : "exclude" }
+    ]
+}

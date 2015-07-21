@@ -1,0 +1,11 @@
+{
+    "program_name": "localize",
+    "program_uri": "https://hackerone.com/localize",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.localize.im", "scope" : "include" },
+      {"DnsRecord" : "localize.im", "scope" : "include" }
+    ]
+}

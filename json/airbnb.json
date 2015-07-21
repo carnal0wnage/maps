@@ -1,0 +1,14 @@
+{
+    "program_name": "Airbnb",
+    "program_uri": "https://hackerone.com/airbnb",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.airbnb.com", "scope" : "include" },
+      {"DnsRecord" : "airbnb.com", "scope" : "include" },
+      {"DnsRecord" : "nerds.airbnb.com", "scope" : "exclude" },
+      {"DnsRecord" : "publicpolicy.airbnb.com ", "scope" : "exclude" },
+      {"DnsRecord" : "blog.airbnb.com", "scope" : "exclude" }
+    ]
+}

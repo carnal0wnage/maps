@@ -1,0 +1,11 @@
+{
+    "program_name": "Coinport",
+    "program_uri": "https://www.crowdcurity.com/coinport",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.coinport.com", "scope" : "include" },
+      {"DnsRecord" : "coinport.com", "scope" : "include" }
+    ]
+}

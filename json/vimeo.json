@@ -1,0 +1,17 @@
+{
+    "program_name": "Vimeo",
+    "program_uri": "https://hackerone.com/vimeo",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKNOWN",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"DnsRecord" : "vimeo.com", "scope" : "include" },
+      {"DnsRecord" : "www.vimeo.com", "scope" : "include" },
+      {"DnsRecord" : "player.vimeo.com", "scope" : "include" },
+      {"DnsRecord" : "api.vimeo.com", "scope" : "include" },
+      {"DnsRecord" : "vimeopro.com", "scope" : "include" },
+      {"DnsRecord" : "www.vimeopro.com", "scope" : "include" },
+      {"DnsRecord" : "cloud.vimeo.com", "scope" : "include" },
+      {"DnsRecord" : "pages.email.vimeo.com", "scope" : "exclude" }
+    ]
+}

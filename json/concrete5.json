@@ -1,0 +1,11 @@
+{
+    "program_name": "concrete5",
+    "program_uri": "https://hackerone.com/concrete5",
+    "reward_type" : "",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "concrete5.org.", "scope" : "exclude" },
+      {"SoftwarePackage" : "http://www.concrete5.org/developers/downloads/", "scope" : "include" }
+    ]
+}

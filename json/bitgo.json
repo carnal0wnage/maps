@@ -1,0 +1,11 @@
+{
+    "program_name": "BitGo",
+    "program_uri": "https://www.crowdcurity.com/bitgo",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "www.bitgo.com", "scope" : "include" },
+      {"DnsRecord" : "bitgo.com", "scope" : "include" }
+    ]
+}

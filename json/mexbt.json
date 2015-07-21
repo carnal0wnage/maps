@@ -1,0 +1,11 @@
+{
+    "program_name": "meXBT",
+    "program_uri": "https://www.crowdcurity.com/mexbt",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 50",
+    "reward_high": "mB 1000",
+    "scope": [
+      {"DnsRecord" : "www.mexbt.com", "scope" : "include" },
+      {"DnsRecord" : "mexbt.com", "scope" : "include" }
+    ]
+}

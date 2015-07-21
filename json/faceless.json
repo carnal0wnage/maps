@@ -1,0 +1,10 @@
+{
+    "program_name": "faceless",
+    "program_uri": "https://hackerone.com/faceless",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"Mobile" : "https://play.google.com/store/apps/details?id=im.delight.faceless", "scope" : "include" }
+    ]
+}

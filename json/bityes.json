@@ -1,0 +1,11 @@
+{
+    "program_name": "BitYes",
+    "program_uri": "https://www.crowdcurity.com/bityes",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "www.bityes.com", "scope" : "include" },
+      {"DnsRecord" : "bityes.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "BTX Trader",
+    "program_uri": "https://www.btxtrader.com/bugbounty.html",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.btxtrader.com", "scope" : "include" },
+      {"DnsRecord" : "btxtrader.com", "scope" : "include" }
+    ]
+}

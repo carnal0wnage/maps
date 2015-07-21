@@ -1,0 +1,11 @@
+{
+    "program_name": "Blockchain.info",
+    "program_uri": "https://www.crowdcurity.com/blockchain-info",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$1600",
+    "scope": [
+      {"DnsRecord" : "www.blockchain.info", "scope" : "include" },
+      {"DnsRecord" : "blockchain.info", "scope" : "include" }
+    ]
+}

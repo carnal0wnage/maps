@@ -1,0 +1,14 @@
+{
+    "program_name": "SplashID",
+    "program_uri": "https://bugcrowd.com/splashid",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.splashid.com", "scope" : "include" },
+      {"DnsRecord" : "splashid.com", "scope" : "include" },
+      {"Mobile" : "itunes.apple.com/us/app/splashid-safe-for-iphone/id284334840?mt=8", "scope" : "include" },
+      {"Mobile" : "play.google.com/store/apps/details?id=com.splashidandroid", "scope" : "include" },
+      {"SoftwarePackage" : "splashid.com/downloads.php", "scope" : "include" }
+    ]
+}

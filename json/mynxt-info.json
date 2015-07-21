@@ -1,0 +1,11 @@
+{
+    "program_name": "mynxt.info",
+    "program_uri": "https://www.crowdcurity.com/mynxt-info",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 75",
+    "reward_high": "mB 1000",
+    "scope": [
+      {"DnsRecord" : "wallet.mynxt.info", "scope" : "include" },
+      {"DnsRecord" : "www.mynxt.info", "scope" : "include" }
+    ]
+}

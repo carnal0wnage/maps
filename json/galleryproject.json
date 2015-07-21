@@ -1,0 +1,10 @@
+{
+    "program_name": "Gallery Project",
+    "program_uri": "http://codex.galleryproject.org/Bounties",
+    "reward_type" : "Dolalrs",
+    "reward_low": "$0",
+    "reward_high": "$5000",
+    "scope": [
+      {"SoftwarePackage" : "http://sourceforge.net/projects/gallery/files/gallery3/3.0.9/gallery-3.0.9.zip/download?use_mirror=hivelocity", "scope" : "include" }
+    ]
+}

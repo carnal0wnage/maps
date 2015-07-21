@@ -1,0 +1,11 @@
+{
+    "program_name": "Stop The Hacker",
+    "program_uri": "https://hackerone.com/stopthehacker",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.stopthehacker.com", "scope" : "include" },
+      {"DnsRecord" : "stopthehacker.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Fluxiom",
+    "program_uri": "https://www.fluxiom.com/security",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.fluxiom.com", "scope" : "include" },
+      {"DnsRecord" : "fluxiom.com", "scope" : "include" }
+    ]
+}

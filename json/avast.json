@@ -1,0 +1,10 @@
+{
+    "program_name": "Avast",
+    "program_uri": "https://www.avast.com/bug-bounty",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKNOWN",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"SoftwarePackage" : "https://www.avast.com/store", "scope" : "include" }
+    ]
+}

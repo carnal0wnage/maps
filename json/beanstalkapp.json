@@ -1,0 +1,11 @@
+{
+    "program_name": "Beanstalk",
+    "program_uri": "http://support.beanstalkapp.com/customer/portal/articles/1317175-responsible-disclosure-policy",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.beanstalkapp.com", "scope" : "include" },
+      {"DnsRecord" : "beanstalkapp.com", "scope" : "include" }
+    ]
+}

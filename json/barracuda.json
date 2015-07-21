@@ -1,0 +1,20 @@
+{
+    "program_name": "Barracuda",
+    "program_uri": "https://bugcrowd.com/barracuda",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$3133",
+    "scope": [
+      {"DnsRecord" : "http://spam.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "http://archiver.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "http://webfilter.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "http://waf.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "http://firewall.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "http://sslvpn.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "http://balancer.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "http://adc.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "http://cudatel.ptest.cudasvc.com", "scope" : "include" },
+      {"DnsRecord" : "cudasvc.com", "scope" : "exclude" },
+      {"DnsRecord" : "www.cudasvc.com", "scope" : "exclude" }
+    ]
+}

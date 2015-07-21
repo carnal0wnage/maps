@@ -1,0 +1,11 @@
+{
+    "program_name": "Commons Ware",
+    "program_uri": "http://commonsware.com/bounty.html",
+    "reward_type" : "Swag",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.commonsware.com", "scope" : "include" },
+      {"DnsRecord" : "commonsware.com", "scope" : "include" }
+    ]
+}

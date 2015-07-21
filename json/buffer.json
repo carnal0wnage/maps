@@ -1,0 +1,11 @@
+{
+    "program_name": "Buffer",
+    "program_uri": "https://buffer.com/security",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.buffer.com", "scope" : "include" },
+      {"DnsRecord" : "buffer.com", "scope" : "include" }
+    ]
+}

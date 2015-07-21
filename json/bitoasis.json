@@ -1,0 +1,11 @@
+{
+    "program_name": "Bitoasis",
+    "program_uri": "https://www.crowdcurity.com/bitoasis",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 100",
+    "reward_high": "mB 2000",
+    "scope": [
+      {"DnsRecord" : "dev4.bitoasis.net/", "scope" : "include" },
+      {"DnsRecord" : "cryptocorp.co/api/", "scope" : "exclude" }
+    ]
+}

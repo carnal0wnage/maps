@@ -1,0 +1,11 @@
+{
+    "program_name": "ING",
+    "program_uri": "https://www.ing.nl/de-ing/veilig-bankieren/fraude-melden/meldpunt-kwetsbaarheden/index.html",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKNOWN",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"DnsRecord" : "www.ing.nl", "scope" : "include" },
+      {"DnsRecord" : "ing.nl", "scope" : "include" }
+    ]
+}

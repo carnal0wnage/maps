@@ -1,0 +1,17 @@
+{
+    "program_name": "Facebook",
+    "program_uri": "https://www.facebook.com/whitehat/bounty/",
+    "reward_type" : "Dollars",
+    "reward_low": "$500",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "www.facebook.com", "scope" : "include" },
+      {"DnsRecord" : "Facebook.com", "scope" : "include" },
+      {"DnsRecord" : "Parse.com", "scope" : "include" },
+      {"DnsRecord" : "Onavo.com", "scope" : "include" },
+      {"DnsRecord" : "Oculus.com", "scope" : "include" },
+      {"DnsRecord" : "moves-app.com", "scope" : "include" },
+      {"DnsRecord" : "instagram.com", "scope" : "include" },
+      {"SoftwarePackage" : "https://osquery.io/downloads/", "scope" : "include" }
+    ]
+}

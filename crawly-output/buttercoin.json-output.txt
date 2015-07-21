@@ -1,0 +1,3 @@
+http://www.buttercoin.com/
+REDIRECTING!
+http://api.buttercoin.com/

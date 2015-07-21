@@ -1,0 +1,20 @@
+{
+    "program_name": "Heroku",
+    "program_uri": "https://bugcrowd.com/heroku",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$1500",
+    "scope": [
+      {"DnsRecord" : "api.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "dashboard.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "id.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "addons.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "devcenter.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "status.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "postgres.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "dataclips.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "help.heroku.com", "scope" : "include" },
+      {"DnsRecord" : "www.heroku.com", "scope" : "include" },
+      {"SoftwarePackage" : "https://toolbelt.heroku.com/", "scope" : "include" }
+    ]
+}

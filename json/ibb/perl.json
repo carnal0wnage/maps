@@ -1,0 +1,10 @@
+{
+    "program_name": "Perl",
+    "program_uri": "https://hackerone.com/perl",
+    "reward_type" : "Dollars",
+    "reward_low": "$1500",
+    "reward_high": "",
+    "scope": [
+      {"SoftwarePackage" : "http://perl.org/", "scope" : "include" }
+    ]
+}

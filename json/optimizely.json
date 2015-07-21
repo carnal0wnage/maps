@@ -1,0 +1,16 @@
+{
+    "program_name": "Optimizely",
+    "program_uri": "https://www.crowdcurity.com/optimizely",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "www.optimizely.com", "scope" : "include" },
+      {"DnsRecord" : "optimizely.com", "scope" : "include" },
+      {"DnsRecord" : "help.optimizely.com", "scope" : "exclude" },
+      {"DnsRecord" : "community.optimizely.com", "scope" : "exclude" },
+      {"DnsRecord" : "go.optimizely.com", "scope" : "exclude" },
+      {"DnsRecord" : "pages.optimizely.com", "scope" : "exclude" },
+      {"DnsRecord" : "playground.optimizely.com", "scope" : "exclude" }
+    ]
+}

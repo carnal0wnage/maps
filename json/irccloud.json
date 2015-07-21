@@ -1,0 +1,11 @@
+{
+    "program_name": "IRCCloud",
+    "program_uri": "https://hackerone.com/irccloud",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "www.irccloud.com", "scope" : "include" },
+      {"DnsRecord" : "irccloud.com", "scope" : "include" }
+    ]
+}

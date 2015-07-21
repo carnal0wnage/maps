@@ -1,0 +1,13 @@
+{
+    "program_name": "ManageBGL",
+    "program_uri": "https://www.crowdcurity.com/managebgl",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "managebgl.com", "scope" : "include" },
+      {"DnsRecord" : "www.", "scope" : "include" },
+      {"DnsRecord" : "DownloadPipe.com", "scope" : "exclude" },
+      {"DnsRecord" : "DataMystic.com", "scope" : "exclude" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "meteor",
+    "program_uri": "https://hackerone.com/meteor",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "ww.meteor.com", "scope" : "include" },
+      {"SoftwarePackage" : "http://github.com/meteor/meteor.", "scope" : "include" }
+    ]
+}

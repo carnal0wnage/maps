@@ -1,0 +1,12 @@
+{
+    "program_name": "Apple",
+    "program_uri": "https://www.apple.com/au/support/security/",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.apple.com", "scope" : "include" },
+      {"DnsRecord" : "apple.com", "scope" : "include" },
+      {"SoftwarePackage" : "https://www.apple.com/pr/products/", "scope" : "include" }
+    ]
+}

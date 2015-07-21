@@ -1,0 +1,11 @@
+{
+    "program_name": "informatica",
+    "program_uri": "https://hackerone.com/informatica",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.informatica.com", "scope" : "include" },
+      {"DnsRecord" : "informatica.com", "scope" : "include" }
+    ]
+}

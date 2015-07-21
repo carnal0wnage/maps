@@ -1,0 +1,11 @@
+{
+    "program_name": "ImpressPages",
+    "program_uri": "https://www.crowdcurity.com/impresspages",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "test.impresspages.org/crowdcurity", "scope" : "include" },
+      {"SoftwarePackage" : "github.com/impresspages/ImpressPages", "scope" : "include" }
+    ]
+}

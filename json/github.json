@@ -1,0 +1,12 @@
+{
+    "program_name": "GitHub",
+    "program_uri": "https://bounty.github.com/",
+    "reward_type" : "Dollars",
+    "reward_low": "$200",
+    "reward_high": "$10000",
+    "scope": [
+      {"DnsRecord" : "www.github.com", "scope" : "include" },
+      {"DnsRecord" : "github.com", "scope" : "include" },
+      {"DnsRecord" : "shop.github.com", "scope" : "exclude" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Wordpoints",
+    "program_uri": "https://hackerone.com/wordpoints",
+    "reward_type" : "",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"SoftwarePackage" : "https://github.com/WordPoints/", "scope" : "include" },
+      {"DnsRecord" : "wordpoints.org", "scope" : "exclude" }
+    ]
+}

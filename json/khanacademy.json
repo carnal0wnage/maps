@@ -1,0 +1,13 @@
+{
+    "program_name": "Khan Academy",
+    "program_uri": "https://hackerone.com/khanacademy",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.khanacademy.org ", "scope" : "include" },
+      {"DnsRecord" : "khanacademy.org ", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8", "scope" : "include" },
+      {"Mobile" : "http://apps.microsoft.com/windows/en-us/app/khan-academy/d23cc2b2-c105-4db3-9946-e44bacc56f7b", "scope" : "include" }
+    ]
+}

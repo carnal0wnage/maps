@@ -1,0 +1,11 @@
+{
+    "program_name": "BX.in.th",
+    "program_uri": "https://www.crowdcurity.com/bx-in-th",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 35",
+    "reward_high": "mB 1000",
+    "scope": [
+      {"DnsRecord" : "bx.in.th", "scope" : "include" },
+      {"DnsRecord" : "www.bx.in.th", "scope" : "include" }
+    ]
+}

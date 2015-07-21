@@ -1,0 +1,15 @@
+{
+    "program_name": "Square",
+    "program_uri": "https://hackerone.com/square",
+    "reward_type" : "Dollars",
+    "reward_low": "$300",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "www.squareup.com", "scope" : "include" },
+      {"DnsRecord" : "squareup.com", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.squareup", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.squareup.cash", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/square-register-accept-credit/id335393788?mt=8", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/square-cash-send-money-for/id711923939?mt=8", "scope" : "include" }
+    ]
+}

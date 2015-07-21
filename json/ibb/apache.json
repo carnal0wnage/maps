@@ -1,0 +1,10 @@
+{
+    "program_name": "Apache httpd",
+    "program_uri": "https://hackerone.com/apache",
+    "reward_type" : "Dollars",
+    "reward_low": "$500",
+    "reward_high": "$3000",
+    "scope": [
+      {"SoftwarePackage" : "http://apache.org/", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Badoo",
+    "program_uri": "http://corp.badoo.com/security",
+    "reward_type" : "Euro",
+    "reward_low": "€50",
+    "reward_high": "€500",
+    "scope": [
+      {"DnsRecord" : "www.badoo.com", "scope" : "include" },
+      {"DnsRecord" : "badoo.com", "scope" : "include" }
+    ]
+}

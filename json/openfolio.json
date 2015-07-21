@@ -1,0 +1,11 @@
+{
+    "program_name": "Openfolio",
+    "program_uri": "https://hackerone.com/openfolio",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "openfolio.com", "scope" : "include" },
+      {"DnsRecord" : "www.openfolio.com", "scope" : "include" }
+    ]
+}

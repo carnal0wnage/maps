@@ -1,0 +1,11 @@
+{
+    "program_name": "Detectify",
+    "program_uri": "https://hackerone.com/detectify",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.detectify.com", "scope" : "include" },
+      {"DnsRecord" : "detectify.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "program_name": "StatusPage",
+    "program_uri": "https://bugcrowd.com/statuspage",
+    "reward_type" : "Dollars",
+    "reward_low": "$25",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "statuspage.io", "scope" : "include" },
+      {"DnsRecord" : "help.statuspage.io", "scope" : "exclude" },
+      {"DnsRecord" : "doers.statuspage.io", "scope" : "exclude" },
+      {"DnsRecord" : "filepicker.io", "scope" : "exclude" },
+      {"DnsRecord" : "fcustomer.io", "scope" : "exclude" },
+      {"DnsRecord" : "segment.io", "scope" : "exclude" },
+      {"DnsRecord" : "www.statuspage.io", "scope" : "exclude" },
+      {"DnsRecord" : "blog.statuspage.io", "scope" : "include" },
+      {"DnsRecord" : "metastatuspage.com", "scope" : "include" }
+    ]
+}

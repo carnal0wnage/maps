@@ -1,0 +1,10 @@
+{
+    "program_name": "automattic",
+    "program_uri": "https://hackerone.com/automattic",
+    "reward_type" : "Dollars",
+    "reward_low": "?",
+    "reward_high": "?",
+    "scope": [
+      {"SoftwarePackage" : "http://automattic.com/", "scope" : "include" }
+    ]
+}

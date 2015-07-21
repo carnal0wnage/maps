@@ -1,0 +1,11 @@
+{
+    "program_name": "Asana",
+    "program_uri": "https://asana.com/bounty",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKNOWN",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"DnsRecord" : "www.asana.com ", "scope" : "include" },
+      {"DnsRecord" : "app.asana.com ", "scope" : "include" }
+    ]
+}

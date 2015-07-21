@@ -1,0 +1,11 @@
+{
+    "program_name": "Coinbase",
+    "program_uri": "https://hackerone.com/coinbase",
+    "reward_type" : "Dollars",
+    "reward_low": "$1000",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "www.coinbase.com", "scope" : "include" },
+      {"DnsRecord" : "coinbase.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,3 @@
+https://staging.jsdelivr.net/
+https://jsdelivr.net/
+https://jsdelivr.com/

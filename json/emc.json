@@ -1,0 +1,10 @@
+{
+    "program_name": "EMC",
+    "program_uri": "http://www.emc.com/products/security/product-security-response-center.htm",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"SoftwarePackage" : "http://www.emc.com/security/index.htm", "scope" : "include" }
+    ]
+}

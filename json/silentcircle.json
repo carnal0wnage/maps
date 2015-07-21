@@ -1,0 +1,12 @@
+{
+    "program_name": "SilentCircle",
+    "program_uri": "https://bugcrowd.com/silentcircle",
+    "reward_type" : "Dollars",
+    "reward_low": "$128",
+    "reward_high": "$128",
+    "scope": [
+      {"DnsRecord" : "www.silentcircle.com", "scope" : "include" },
+      {"DnsRecord" : "silentcircle.com", "scope" : "include" },
+      {"DnsRecord" : "accounts.silentcircle.com", "scope" : "include" }
+    ]
+}

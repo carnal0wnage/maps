@@ -1,0 +1,13 @@
+{
+    "program_name": "ChainPay",
+    "program_uri": "https://www.crowdcurity.com/chainpay",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "testapi.altxe.com", "scope" : "include" },
+      {"DnsRecord" : "testportal.altxe.com", "scope" : "include" },
+      {"DnsRecord" : "testpay.chainpay.com", "scope" : "include" },
+      {"DnsRecord" : "www.chainpay.com", "scope" : "exclude" }
+    ]
+}

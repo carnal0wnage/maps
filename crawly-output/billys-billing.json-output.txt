@@ -1,0 +1,13 @@
+http://customer.billysbilling.com/
+REDIRECTING!
+https://customer.billysbilling.com/
+http://app.billysbilling.com/
+REDIRECTING!
+https://app.billysbilling.com/
+http://api.billysbilling.com/
+REDIRECTING!
+https://api.billysbilling.com/
+http://Billysbilling.com/
+REDIRECTING!
+http://Billysbilling.dk/
+REDIRECTING!

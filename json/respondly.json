@@ -1,0 +1,11 @@
+{
+    "program_name": "Respondly",
+    "program_uri": "https://hackerone.com/respondly",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "respond.ly", "scope" : "include" },
+      {"DnsRecord" : "www.respond.ly", "scope" : "include" }
+    ]
+}

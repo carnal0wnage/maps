@@ -1,0 +1,11 @@
+{
+    "program_name": "Basecamp",
+    "program_uri": "https://basecamp.com/security/",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.basecamp.com", "scope" : "include" },
+      {"DnsRecord" : "basecamp.com", "scope" : "include" }
+    ]
+}

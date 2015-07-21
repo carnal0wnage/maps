@@ -1,0 +1,17 @@
+{
+    "program_name": "blackphone",
+    "program_uri": "https://bugcrowd.com/blackphone",
+    "reward_type" : "Dollars",
+    "reward_low": "$128",
+    "reward_high": "$128",
+    "scope": [
+      {"DnsRecord" : "www.blackphone.ch", "scope" : "include" },
+      {"DnsRecord" : "blackphone.ch", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.silentcircle.silentphone", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.silentcircle.silenttext", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/silent-phone/id554269204?mt=8", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/silent-text-2/id868431189?mt=8", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.silentcircle.silenttext&hl=en", "scope" : "include" },
+      {"SoftwarePackage" : "https://blackphone.ch/privat-os/", "scope" : "include" }
+    ]
+}

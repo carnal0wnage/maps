@@ -1,0 +1,10 @@
+{
+    "program_name": "joola-io",
+    "program_uri": "https://hackerone.com/joola-io",
+    "reward_type" : "",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"SoftwarePackage" : "https://github.com/joola/joola", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "GitLab",
+    "program_uri": "https://about.gitlab.com/disclosure/",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.gitlab.com", "scope" : "include" },
+      {"DnsRecord" : "gitlab.com", "scope" : "include" }
+    ]
+}

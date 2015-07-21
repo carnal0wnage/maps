@@ -1,0 +1,11 @@
+{
+    "program_name": "ChangeTip",
+    "program_uri": "https://www.crowdcurity.com/changetip",
+    "reward_type" : "Dollars",
+    "reward_low": "$125",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "www.changetip.com", "scope" : "include" },
+      {"DnsRecord" : "changetip.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Coupa",
+    "program_uri": "http://www.coupa.com/success/vulnerability-reporting-policy",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.coupa.com", "scope" : "include" },
+      {"DnsRecord" : "coupa.com", "scope" : "include" }
+    ]
+}

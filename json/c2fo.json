@@ -1,0 +1,13 @@
+{
+    "program_name": "C2FO",
+    "program_uri": "https://bugcrowd.com/c2fo",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.c2fo.com", "scope" : "include" },
+      {"DnsRecord" : "c2fo.com", "scope" : "include" },
+      {"DnsRecord" : "app.c2fo.com", "scope" : "include" },
+      {"DnsRecord" : "admin.c2fo.com", "scope" : "include" }
+    ]
+}

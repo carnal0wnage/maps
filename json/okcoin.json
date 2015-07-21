@@ -1,0 +1,11 @@
+{
+    "program_name": "OKCoin",
+    "program_uri": "https://www.crowdcurity.com/okcoin",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 50",
+    "reward_high": "mB 2500",
+    "scope": [
+      {"DnsRecord" : "okcoin.com", "scope" : "include" },
+      {"DnsRecord" : "www.okcoin.com", "scope" : "include" }
+    ]
+}

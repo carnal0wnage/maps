@@ -1,0 +1,11 @@
+{
+    "program_name": "Urban Dictionary",
+    "program_uri": "https://hackerone.com/urbandictionary",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.urbandictionary.com,", "scope" : "include" },
+      {"DnsRecord" : "urbandictionary.com,", "scope" : "exclude" }
+    ]
+}

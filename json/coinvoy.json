@@ -1,0 +1,11 @@
+{
+    "program_name": "Coinvoy",
+    "program_uri": "https://www.crowdcurity.com/coinvoy",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.coinvoy.net", "scope" : "include" },
+      {"DnsRecord" : "coinvoy.net", "scope" : "include" }
+    ]
+}

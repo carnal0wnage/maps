@@ -1,0 +1,11 @@
+{
+    "program_name": "iwantmyname",
+    "program_uri": "https://bugcrowd.com/iwantmyname",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.iwantmyname.com", "scope" : "include" },
+      {"DnsRecord" : "search.iwantmyname.com", "scope" : "include" }
+    ]
+}

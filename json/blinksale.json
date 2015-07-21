@@ -1,0 +1,11 @@
+{
+    "program_name": "blinksale",
+    "program_uri": "https://bugcrowd.com/blinksale",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.blinksale.com", "scope" : "include" },
+      {"DnsRecord" : "blinksale.com", "scope" : "include" }
+    ]
+}

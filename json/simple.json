@@ -1,0 +1,16 @@
+{
+    "program_name": "Simple",
+    "program_uri": "https://bugcrowd.com/simple",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$1500",
+    "scope": [
+      {"DnsRecord" : "www.simple.com", "scope" : "include" },
+      {"DnsRecord" : "simple.com", "scope" : "include" },
+      {"DnsRecord" : "api.simple.com", "scope" : "include" },
+      {"DnsRecord" : "bank.simple.com", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/simple-better-banking/id479317486", "scope" : "include" },
+      {"Mobile" : "ttps://play.google.com/store/apps/details?id=com.banksimple", "scope" : "include" }
+
+    ]
+}

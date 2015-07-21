@@ -1,0 +1,18 @@
+{
+    "program_name": "WP-api",
+    "program_uri": "https://hackerone.com/wp-api",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"SoftwarePackage" : "https://wordpress.org/plugins/json-rest-api/", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/WP-API/OAuth1", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/WP-API/client-js", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/WP-API/client-cli", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/WP-API/client-php", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/WP-API/api-console", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/WP-API/Basic-Auth", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/WP-API/WP-API.github.io", "scope" : "include" },
+      {"DnsRecord" : "wp-api.org", "scope" : "exclude" }
+    ]
+}

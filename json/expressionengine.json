@@ -1,0 +1,12 @@
+{
+    "program_name": "ExpressionEngine",
+    "program_uri": "https://hackerone.com/expressionengine",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "ellislab.com/expressionengine", "scope" : "include" },
+      {"DnsRecord" : "ellislab.com", "scope" : "exclude" },
+      {"DnsRecord" : "www.ellislab.com", "scope" : "exclude" }
+    ]
+}

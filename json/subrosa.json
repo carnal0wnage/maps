@@ -1,0 +1,11 @@
+{
+    "program_name": "",
+    "program_uri": "https://www.crowdcurity.com/subrosa",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 75",
+    "reward_high": "mB 2000",
+    "scope": [
+      {"DnsRecord" : "www.subrosa.io", "scope" : "include" },
+      {"DnsRecord" : "subrosa.io", "scope" : "include" }
+    ]
+}

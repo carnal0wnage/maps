@@ -1,0 +1,12 @@
+{
+    "program_name": "Abacus",
+    "program_uri": "https://bugcrowd.com/abacus",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.abacus.com", "scope" : "include" },
+      {"DnsRecord" : "support.abacus.com", "scope" : "exclude" },
+      {"DnsRecord" : "blog.abacus.com", "scope" : "exclude" }
+    ]
+}

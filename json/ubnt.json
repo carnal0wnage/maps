@@ -1,0 +1,12 @@
+{
+    "program_name": "Ubiquiti Networks",
+    "program_uri": "https://hackerone.com/ubnt",
+    "reward_type" :  "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$25000",
+    "scope": [
+      {"DnsRecord" : "www.ubnt.com ", "scope" : "include" },
+      {"DnsRecord" : "ubnt.com", "scope" : "include" },
+      {"DnsRecord" : "aircrm.ubnt.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "program_name": "Greenhouse",
+    "program_uri": "https://hackerone.com/greenhouse",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "app.greenhouse.io", "scope" : "include" },
+      {"DnsRecord" : "api.greenhouse.io", "scope" : "include" },
+      {"DnsRecord" : "boards.greenhouse.io", "scope" : "include" },
+      {"DnsRecord" : "www.greenhouse.io", "scope" : "exclude" },
+      {"DnsRecord" : "greenhouse.io", "scope" : "exclude" },
+      {"DnsRecord" : "blog.greenhouse.io", "scope" : "exclude" },
+      {"DnsRecord" : "info.greenhouse.io", "scope" : "exclude" }
+    ]
+}

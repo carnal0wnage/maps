@@ -1,0 +1,12 @@
+{
+    "program_name": "Catchafire",
+    "program_uri": "https://www.crowdcurity.com/catchafire",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "crowdcurity.qa.catchafire.org", "scope" : "include" },
+      {"DnsRecord" : "www.catchafire.org", "scope" : "exclude" },
+      {"DnsRecord" : "catchafire.org", "scope" : "exclude" }
+    ]
+}

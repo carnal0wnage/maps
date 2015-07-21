@@ -1,0 +1,11 @@
+{
+    "program_name": "BitHealth",
+    "program_uri": "https://www.crowdcurity.com/bithealth",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.bithealth.io", "scope" : "include" },
+      {"DnsRecord" : "bithealth.io", "scope" : "include" }
+    ]
+}

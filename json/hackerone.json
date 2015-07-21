@@ -1,0 +1,11 @@
+{
+    "program_name": "HackerOne",
+    "program_uri": "https://hackerone.com/security",
+    "reward_type" : "Dollars",
+    "reward_low": "$500",
+    "reward_high": "$5000",
+    "scope": [
+      {"DnsRecord" : "www.hackerone.com", "scope" : "include" },
+      {"DnsRecord" : "hackerone.com", "scope" : "include" }
+    ]
+}

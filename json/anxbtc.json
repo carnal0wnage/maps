@@ -1,0 +1,10 @@
+{
+    "program_name": "ANXBTC",
+    "program_uri": "https://www.crowdcurity.com/anxbtc",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 1000",
+    "reward_high": "mB 50",
+    "scope": [
+      {"DnsRecord" : "test.anxpro.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Deutsche Telekom",
+    "program_uri": "http://www.telekom.com/bug-bounty-program",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKNOWN",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"DnsRecord" : "www.telekom.de", "scope" : "include" },
+      {"DnsRecord" : "telekom.de", "scope" : "include" }
+    ]
+}

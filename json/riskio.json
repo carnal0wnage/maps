@@ -1,0 +1,11 @@
+{
+    "program_name": "Risk.io",
+    "program_uri": "https://bugcrowd.com/riskio",
+    "reward_type" : "Swag + Point",
+    "reward_low" : "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "risk.io", "scope" : "include" },
+      {"DnsRecord" : "www.risk.io", "scope" : "exclude" }
+    ]
+}

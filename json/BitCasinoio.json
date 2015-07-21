@@ -1,0 +1,10 @@
+{
+    "program_name": "BitCasino",
+    "program_uri": "https://www.crowdcurity.com/bitcasino",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 50",
+    "reward_high": "mB 1000",
+    "scope": [
+      {"DnsRecord" : "www.bitcasino.io/casino", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "program_name": "Service Rocket",
+    "program_uri": "https://bugcrowd.com/servicerocket",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "demo1.trainingrocket.com", "scope" : "include" },
+      {"DnsRecord" : "trainingrocket.com", "scope" : "exclude" },
+      {"DnsRecord" : ".trainingrocket.com", "scope" : "exclude" }
+    ]
+}

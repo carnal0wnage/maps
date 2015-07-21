@@ -1,0 +1,14 @@
+{
+    "program_name": "Trello",
+    "program_uri": "https://hackerone.com/trello",
+    "reward_type" : "Dollars",
+    "reward_low": "$64",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "www.trello.com", "scope" : "include" },
+      {"DnsRecord" : "api.trello.com", "scope" : "include" },
+      {"DnsRecord" : "e.trello.com", "scope" : "exclude" },
+      {"DnsRecord" : "help.trello.com", "scope" : "exclude" },
+      {"DnsRecord" : "trello.com", "scope" : "exclude" }
+    ]
+}

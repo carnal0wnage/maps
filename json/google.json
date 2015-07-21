@@ -1,0 +1,33 @@
+{
+    "program_name": "Google",
+    "program_uri": "http://www.google.com/about/appsecurity/reward-program/",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$20000",
+    "scope": [
+      {"DnsRecord" : "www.google.com", "scope" : "include" },
+      {"DnsRecord" : "google.com", "scope" : "include" },
+      {"DnsRecord" : "sites.google.com", "scope" : "include" },
+      {"DnsRecord" : "accounts.google.com", "scope" : "include" },
+      {"DnsRecord" : "encrypted.google.com", "scope" : "include" },
+      {"DnsRecord" : "wallet.google.com", "scope" : "include" },
+      {"DnsRecord" : "mail.google.com", "scope" : "include" },
+      {"DnsRecord" : "inbox.google.com", "scope" : "include" },
+      {"DnsRecord" : "code.google.com", "scope" : "include" },
+      {"DnsRecord" : "chrome.google.com", "scope" : "include" },
+      {"DnsRecord" : "admin.google.com", "scope" : "include" },
+      {"DnsRecord" : "appengine.google.com", "scope" : "include" },
+      {"DnsRecord" : "console.google.com", "scope" : "include" },
+      {"DnsRecord" : "play.google.com", "scope" : "include" },
+      {"DnsRecord" : "www.nest.com", "scope" : "include" },
+      {"DnsRecord" : "nest.com", "scope" : "include" },
+      {"DnsRecord" : "www.youtube.com", "scope" : "include" },
+      {"DnsRecord" : "youtube.com", "scope" : "include" },
+      {"DnsRecord" : "www.blogger.com", "scope" : "include" },
+      {"DnsRecord" : "blogger.com", "scope" : "include" },
+      {"DnsRecord" : "googleusercontent.com.com", "scope" : "exclude" },
+      {"Mobile" : "https://itunes.apple.com/us/artist/google-inc./id281956209", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/developer?id=Google%20Inc.&hl=en", "scope" : "include"}
+
+    ]
+}

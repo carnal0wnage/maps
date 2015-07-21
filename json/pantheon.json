@@ -1,0 +1,12 @@
+{
+    "program_name": "Pantheon",
+    "program_uri": "https://bugcrowd.com/pantheon",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "dashboard.getpantheon.com", "scope" : "include" },
+      {"DnsRecord" : "www.getpantheon.com", "scope" : "include" },
+      {"DnsRecord" : "getpantheon.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "codeclimate",
+    "program_uri": "https://codeclimate.com/security",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.codeclimate.com", "scope" : "include" },
+      {"DnsRecord" : "codeclimate.com", "scope" : "include" }
+    ]
+}

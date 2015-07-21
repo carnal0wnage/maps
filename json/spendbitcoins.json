@@ -1,0 +1,11 @@
+{
+    "program_name": "Spendbitcoins",
+    "program_uri": "https://www.crowdcurity.com/spendbitcoins",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 100",
+    "reward_high": "mB 500",
+    "scope": [
+      {"DnsRecord" : "www.spendbitcoins.com", "scope" : "include" },
+      {"DnsRecord" : "www.spendbitcoins.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "program_name": "BillGuard",
+    "program_uri": "https://www.crowdcurity.com/billguard",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "secure.billguard.com", "scope" : "include" }
+    ]
+}

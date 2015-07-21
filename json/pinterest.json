@@ -1,0 +1,18 @@
+{
+    "program_name": "pinterest",
+    "program_uri": "https://bugcrowd.com/pinterest",
+    "reward_type" : "Dollars",
+    "reward_low": "$25",
+    "reward_high": "$200",
+    "scope": [
+      {"DnsRecord" : "business.pinterest.com", "scope" : "include" },
+      {"DnsRecord" : "pinterest.com", "scope" : "include" },
+      {"DnsRecord" : "help.pinterest.com", "scope" : "include" },
+      {"DnsRecord" : "developers.pinterest.com", "scope" : "include" },
+      {"DnsRecord" : "api.pinterest.com", "scope" : "include" },
+      {"DnsRecord" : "about.pinterest.com", "scope" : "include" },
+      {"DnsRecord" : "ads.pinterest.com", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/pinterest/id429047995?mt=8", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.pinterest&hl=en", "scope" : "include" }
+    ]
+}

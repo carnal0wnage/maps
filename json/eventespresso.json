@@ -1,0 +1,11 @@
+{
+    "program_name": "Event Espresso",
+    "program_uri": "https://eventespresso.com/report-a-security-vulnerability/",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.eventespresso.com", "scope" : "include" },
+      {"DnsRecord" : "eventespresso", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Etsy",
+    "program_uri": "https://www.etsy.com/help/article/2463",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKWON",
+    "reward_high": "UNKOWN",
+    "scope": [
+      {"DnsRecord" : "www.etsy.com", "scope" : "include" },
+      {"DnsRecord" : "etsy.com", "scope" : "include" }
+    ]
+}

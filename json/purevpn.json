@@ -1,0 +1,17 @@
+{
+    "program_name": "PureVPN",
+    "program_uri": "https://bugcrowd.com/purevpn",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "purevpn.com", "scope" : "include" },
+      {"DnsRecord" : "www.purevpn.com", "scope" : "include" },
+      {"DnsRecord" : "billing.purevpn.com", "scope" : "include" },
+      {"DnsRecord" : "http://dialerxn.purevpn.net", "scope" : "include" },
+      {"Mobile" : "purevpn.com/vpn-app-for-ios.php", "scope" : "include" },
+      {"Mobile" : "purevpn.com/vpn-app-for-android.php", "scope" : "include" },
+      {"SoftwarePackage" : "https://www.purevpn.com/vpn-software-for-windows.php", "scope" : "include" },
+      {"SoftwarePackage" : "https://www.purevpn.com/vpn-software-for-mac.php", "scope" : "include" }
+    ]
+}

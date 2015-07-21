@@ -1,0 +1,13 @@
+{
+    "program_name": "FastMail",
+    "program_uri": "https://www.fastmail.com/about/bugbounty.html",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$5000",
+    "scope": [
+      {"DnsRecord" : "www.fastmail.com", "scope" : "include" },
+      {"DnsRecord" : "fastmail.com", "scope" : "include" },
+      {"DnsRecord" : "user.fm ", "scope" : "exclude" },
+      {"DnsRecord" : "fastmailusercontent.com; ", "scope" : "exclude" }
+    ]
+}

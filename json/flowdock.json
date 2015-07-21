@@ -1,0 +1,11 @@
+{
+    "program_name": "Flowdock",
+    "program_uri": "https://www.flowdock.com/security",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKNOWN",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"DnsRecord" : "www.flowdock.com", "scope" : "include" },
+      {"DnsRecord" : "flowdock.com", "scope" : "include" }
+    ]
+}

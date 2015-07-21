@@ -1,0 +1,11 @@
+{
+    "program_name": "Digital Ocean",
+    "program_uri": "https://www.digitalocean.com/security/",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.digitalocean.com", "scope" : "include" },
+      {"DnsRecord" : "digitalocean.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Cointrader.net",
+    "program_uri": "https://www.crowdcurity.com/cointrader-net",
+    "reward_type" : "Dollars",
+    "reward_low": "$1000",
+    "reward_high": "$50",
+    "scope": [
+      {"DnsRecord" : "cointrader.net", "scope" : "include" },
+      {"DnsRecord" : "www.cointrader.net", "scope" : "include" }
+    ]
+}

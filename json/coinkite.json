@@ -1,0 +1,11 @@
+{
+    "program_name": "Coinkite",
+    "program_uri": "https://coinkite.com/faq/responsible-disclosure",
+    "reward_type" : "Bitcoin",
+    "reward_low": ".25 BTC",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"DnsRecord" : "www.coinkite.com", "scope" : "include" },
+      {"DnsRecord" : "coinkite.com", "scope" : "include" }
+    ]
+}

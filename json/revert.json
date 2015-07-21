@@ -1,0 +1,12 @@
+{
+    "program_name": "Revert",
+    "program_uri": "https://hackerone.com/revert",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "revert.io", "scope" : "include" },
+      {"DnsRecord" : "www.revert.io", "scope" : "include" },
+      {"DnsRecord" : "Intercom.io ", "scope" : "exclude" }
+    ]
+}

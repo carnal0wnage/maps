@@ -1,0 +1,11 @@
+{
+    "program_name": "Bitcasa",
+    "program_uri": "https://support.bitcasa.com/hc/en-us/articles/202210658-How-To-Responsibly-Report-Security-Concerns",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "https://www.bitcasa.com", "scope" : "include" },
+      {"DnsRecord" : "bitcasa.com", "scope" : "include" }
+    ]
+}

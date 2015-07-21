@@ -1,0 +1,11 @@
+{
+    "program_name": "sendsafely",
+    "program_uri": "https://bugcrowd.com/sendsafely",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.sendsafely.com", "scope" : "include" },
+      {"DnsRecord" : "sendsafely.com", "scope" : "exclude" }
+    ]
+}

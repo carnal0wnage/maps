@@ -1,0 +1,11 @@
+{
+    "program_name": "Ripio",
+    "program_uri": "https://www.crowdcurity.com/ripio",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 50",
+    "reward_high": "mB 1000",
+    "scope": [
+      {"DnsRecord" : "www.ripio.com", "scope" : "include" },
+      {"DnsRecord" : "", "scope" : "include" }
+    ]
+}

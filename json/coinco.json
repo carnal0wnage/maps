@@ -1,0 +1,11 @@
+{
+    "program_name": "Coin.co",
+    "program_uri": "https://hackerone.com/coinco",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "sandbox.coin.co", "scope" : "include" },
+      {"DnsRecord" : "coin.co", "scope" : "exclude" }
+    ]
+}

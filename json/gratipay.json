@@ -1,0 +1,12 @@
+{
+    "program_name": "Gratipay",
+    "program_uri": "https://gratipay.com/about/security/",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.gratipay.com", "scope" : "include" },
+      {"DnsRecord" : "gratipay.com", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/gratipay/gratipay.com", "scope" : "include" }
+    ]
+}

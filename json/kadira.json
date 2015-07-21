@@ -1,0 +1,14 @@
+{
+    "program_name": "kadira",
+    "program_uri": "https://hackerone.com/kadira",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "ui.kadira.io", "scope" : "include" },
+      {"SoftwarePackage" : "https://atmospherejs.com/arunoda/kadira", "scope" : "include" },
+      {"DnsRecord" : "www.kadira.io", "scope" : "exclude" },
+      {"DnsRecord" : "support.kadira.io", "scope" : "exclude" }
+
+    ]
+}

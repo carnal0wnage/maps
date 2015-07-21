@@ -1,0 +1,11 @@
+http://http//spam.ptest.cudasvc.com
+http://http//archiver.ptest.cudasvc.com
+http://http//webfilter.ptest.cudasvc.com
+http://http//waf.ptest.cudasvc.com
+http://http//firewall.ptest.cudasvc.com
+http://http//sslvpn.ptest.cudasvc.com
+http://http//balancer.ptest.cudasvc.com
+http://http//adc.ptest.cudasvc.com
+http://http//cudatel.ptest.cudasvc.com
+http://cudasvc.com/
+http://www.cudasvc.com/

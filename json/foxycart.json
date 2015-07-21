@@ -1,0 +1,18 @@
+{
+    "program_name": "foxycart",
+    "program_uri": "https://bugcrowd.com/foxycart",
+    "reward_type" : "Dollars",
+    "reward_low": "$25",
+    "reward_high": "$100",
+    "scope": [
+      {"DnsRecord" : "api.foxycart.com", "scope" : "include" },
+      {"DnsRecord" : "admin.foxycart.com", "scope" : "include" },
+      {"DnsRecord" : "foxycart-demo.foxycart.com", "scope" : "include" },
+      {"Mobile" : "api-sandbox.foxycart.com", "scope" : "include" },
+      {"DnsRecord" : "forum.foxycart.com", "scope" : "exclude" },
+      {"DnsRecord" : "www.foxycart.com", "scope" : "exclude" },
+      {"DnsRecord" : "wiki.foxycart.com", "scope" : "exclude" },
+      {"DnsRecord" : "affiliate.foxycart.com", "scope" : "exclude" }
+
+    ]
+}

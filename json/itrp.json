@@ -1,0 +1,11 @@
+{
+    "program_name": "IT Resource Planning",
+    "program_uri": "http://itrp.com.au/security/",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.itrp.com.au", "scope" : "include" },
+      {"DnsRecord" : "itrp.com.au", "scope" : "include" }
+    ]
+}

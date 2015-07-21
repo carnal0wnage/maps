@@ -1,0 +1,11 @@
+{
+    "program_name": "Altervista",
+    "program_uri": "http://en.altervista.org/credits.php",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.altervista.org", "scope" : "include" },
+      {"DnsRecord" : "altervista.org", "scope" : "include" }
+    ]
+}

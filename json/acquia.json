@@ -1,0 +1,12 @@
+{
+    "program_name": "Acquia",
+    "program_uri": "https://www.acquia.com/how-report-security-issue",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope":
+    [
+      {"DnsRecord" : "www.acquia.com", "scope" : "include" },
+      {"DnsRecord" : "acquia.com", "scope" : "include" }
+    ]
+}

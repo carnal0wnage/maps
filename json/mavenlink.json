@@ -1,0 +1,16 @@
+{
+    "program_name": "Mavenlink",
+    "program_uri": "https://hackerone.com/mavenlink",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.mavenlink.com)", "scope" : "include" },
+      {"DnsRecord" : "app.mavenlink.com)", "scope" : "include" },
+      {"DnsRecord" : "m.mavenlink.com)", "scope" : "include" },
+      {"DnsRecord" : "api.mavenlink.com)", "scope" : "include" },
+      {"DnsRecord" : "start.mavenlink.com", "scope" : "exclude" },
+      {"DnsRecord" : "go.mavenlink.com", "scope" : "exclude" },
+      {"DnsRecord" : "blog.mavenlink.com", "scope" : "exclude" }
+    ]
+}

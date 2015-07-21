@@ -1,0 +1,11 @@
+{
+    "program_name": "BTC_sx",
+    "program_uri": "https://www.crowdcurity.com/btc_sx",
+    "reward_type" : "Bitcoij",
+    "reward_low": "mB 50",
+    "reward_high": "Mb 300",
+    "scope": [
+      {"DnsRecord" : "www.BTC.sx", "scope" : "include" },
+      {"DnsRecord" : "BTC.sx", "scope" : "include" }
+    ]
+}

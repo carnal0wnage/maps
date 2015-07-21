@@ -1,0 +1,18 @@
+{
+    "program_name": "sunrise",
+    "program_uri": "https://bugcrowd.com/sunrise",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "api.sunrise.am", "scope" : "include" },
+      {"DnsRecord" : "facebook.sunrise.am", "scope" : "include" },
+      {"DnsRecord" : "google.sunrise.am", "scope" : "include" },
+      {"DnsRecord" : "calendar.sunrise.am", "scope" : "include" },
+      {"DnsRecord" : "metrics.sunrise.am", "scope" : "include" },
+      {"DnsRecord" : "www.sunrise.am", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=am.sunrise.android.calendar", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/sunrise/id599114150", "scope" : "include" },
+      {"SoftwarePackage" : "https://itunes.apple.com/app/sunrise-calendar/id886106985?mt=12", "scope" : "include" }
+    ]
+}

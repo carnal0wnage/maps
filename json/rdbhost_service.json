@@ -1,0 +1,14 @@
+{
+    "program_name": "rdbhost_service",
+    "program_uri": "https://www.crowdcurity.com/rdbhost_service",
+    "reward_type" : "Dollars",
+    "reward_low": "$0",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "baseball.rdbhost.com", "scope" : "include" },
+      {"DnsRecord" : "gh.rdbhost.com/threefaves", "scope" : "include" },
+      {"DnsRecord" : "milpalabras.rdbhost.com", "scope" : "include" },
+      {"DnsRecord" : "www.freshfaves.com", "scope" : "include" },
+      {"DnsRecord" : "www.rdbhost.com", "scope" : "include" }
+    ]
+}

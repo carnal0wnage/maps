@@ -1,0 +1,5 @@
+http://www.AwardWallet.com/
+REDIRECTING!
+http://AwardWallet.com/
+REDIRECTING!
+http://https//service.awardwallet.com/wsdl/v4/?wsdl

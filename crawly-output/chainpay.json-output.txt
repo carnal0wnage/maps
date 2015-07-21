@@ -1,0 +1,6 @@
+http://testapi.altxe.com/
+http://testportal.altxe.com/
+REDIRECTING!
+https://testportal.altxe.com/
+http://testpay.chainpay.com/
+http://www.chainpay.com/

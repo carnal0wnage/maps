@@ -1,0 +1,12 @@
+{
+    "program_name": "BlockScore",
+    "program_uri": "https://www.crowdcurity.com/blockscore",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$300",
+    "scope": [
+      {"DnsRecord" : "manage.blockscore.com", "scope" : "include" },
+      {"DnsRecord" : "api.blockscore.com", "scope" : "include" },
+      {"DnsRecord" : "www.blockscore.com", "scope" : "exclude" }
+    ]
+}

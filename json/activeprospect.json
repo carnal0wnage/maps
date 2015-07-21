@@ -1,0 +1,11 @@
+{
+    "program_name": "Active Prospect",
+    "program_uri": "http://activeprospect.com/security/",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.activeprospect.com", "scope" : "include" },
+      {"DnsRecord" : "activeprospect.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "program_name": "phabricator",
+    "program_uri": "https://hackerone.com/phabricator",
+    "reward_type" : "Dollars",
+    "reward_low": "$300",
+    "reward_high": "$3000",
+    "scope": [
+      {"DnsRecord" : "phabricator.org", "scope" : "include" },
+      {"DnsRecord" : "secure.phabricator.com", "scope" : "exclude" },
+      {"SoftwarePackage" : "https://secure.phabricator.com/book/phabricator/article/installation_guide/", "scope" : "include" }
+    ]
+}

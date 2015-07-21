@@ -1,0 +1,10 @@
+{
+    "program_name": "Google Chrome",
+    "program_uri": "https://www.google.com/about/appsecurity/chrome-rewards/index.html",
+    "reward_type" : "Dollars",
+    "reward_low": "0",
+    "reward_high": "$15000",
+    "scope": [
+      {"SoftwarePackage" : "chromium.org", "scope" : "include" }
+    ]
+}

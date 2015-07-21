@@ -1,0 +1,11 @@
+{
+    "program_name": "volusion",
+    "program_uri": "https://bugcrowd.com/volusion",
+    "reward_type" : "Dollars",
+    "reward_low": "$25",
+    "reward_high": "$250",
+    "scope": [
+      {"DnsRecord" : "www.VolusionPenTest.com", "scope" : "include" },
+      {"DnsRecord" : "VolusionPenTest.com", "scope" : "exclude" }
+    ]
+}

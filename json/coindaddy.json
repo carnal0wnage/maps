@@ -1,0 +1,11 @@
+{
+    "program_name": "coindaddy",
+    "program_uri": "https://www.crowdcurity.com/coindaddy",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.coindaddy.io", "scope" : "include" },
+      {"DnsRecord" : "coindaddy.io", "scope" : "include" }
+  ]
+}

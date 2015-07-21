@@ -1,0 +1,19 @@
+{
+    "program_name": "Twitter",
+    "program_uri": "https://hackerone.com/twitter",
+    "reward_type" : "Dollars",
+    "reward_low": "$140",
+    "reward_high": "$5040",
+    "scope": [
+      {"DnsRecord" : "www.twitter.com", "scope" : "include" },
+      {"DnsRecord" : "twitter.com", "scope" : "include" },
+      {"DnsRecord" : "fabric.io", "scope" : "include" },
+      {"DnsRecord" : "www.fabric.io", "scope" : "include" },
+      {"DnsRecord" : "vine.co", "scope" : "include" },
+      {"DnsRecord" : "www.vine.co", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/twitter/id333903271?mt=8", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.twitter.android&hl=en", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/vine/id592447445?mt=8", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=co.vine.android&hl=en", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "MirrorX",
+    "program_uri": "https://www.crowdcurity.com/mirror",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$2000",
+    "scope": [
+      {"DnsRecord" : "www.mirrorx.com", "scope" : "include" },
+      {"DnsRecord" : "mirrorx.com", "scope" : "include" }
+    ]
+}

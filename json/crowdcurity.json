@@ -1,0 +1,11 @@
+{
+    "program_name": "Crowdcurity",
+    "program_uri": "https://www.crowdcurity.com/crowdcurity",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$1500",
+    "scope": [
+      {"DnsRecord" : "www.Crowdcurity", "scope" : "include" },
+      {"DnsRecord" : "Crowdcurity", "scope" : "include" }
+    ]
+}

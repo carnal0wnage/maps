@@ -1,0 +1,10 @@
+{
+    "program_name": "Juniper",
+    "program_uri": "https://www.juniper.net/us/en/products-services/",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"SoftwarePackage" : "https://www.juniper.net/us/en/products-services/", "scope" : "include" }
+    ]
+}

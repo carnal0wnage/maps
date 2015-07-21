@@ -1,0 +1,12 @@
+{
+    "program_name": "Fanfootage",
+    "program_uri": "https://hackerone.com/fanfootage",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.fanfootage.com", "scope" : "include" },
+      {"DnsRecord" : "fanfootage.com", "scope" : "include" },
+      {"DnsRecord" : "blog.fanfootage.com", "scope" : "include" }
+    ]
+}

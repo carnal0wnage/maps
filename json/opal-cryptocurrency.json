@@ -1,0 +1,10 @@
+{
+    "program_name": "Opal Cryptocurrency",
+    "program_uri": "https://www.crowdcurity.com/opal-cryptocurrency",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 75",
+    "reward_high": "mB 700",
+    "scope": [
+      {"SoftwarePackage" : "github.com/opalcoin/opalcoin", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "program_name": "MailRu",
+    "program_uri": "https://hackerone.com/mailru",
+    "reward_type" : "Rewards",
+    "reward_low": "$100",
+    "reward_high": "",
+    "scope":
+    [
+      {"DnsRecord" : "e.mail.ru", "scope" : "include" },
+      {"DnsRecord" : "touch.mail.ru", "scope" : "include" },
+      {"DnsRecord" : "m.mail.ru", "scope" : "include" },
+      {"DnsRecord" : "cloud.mail.ru", "scope" : "include" },
+      {"DnsRecord" : "calendar.mail.ru", "scope" : "include" },
+      {"DnsRecord" : "biz.mail.ru", "scope" : "include" },
+      {"DnsRecord" : "edu.mail.ru", "scope" : "include" },
+      {"DnsRecord" : "auth.mail.ru", "scope" : "include" },
+      {"DnsRecord" : "swa.mail.ru", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/en/app/kalendar-mail.ru/id858490402", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=ru.mail.calendar", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=ru.mail.cloud", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/en/app/oblako-mail.ru/id696551382", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=ru.mail.mailapp", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/en/app/pocta-mail.ru/id511310430", "scope" : "include" }
+    ]
+}

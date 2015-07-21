@@ -1,0 +1,12 @@
+{
+    "program_name": "IntegraXor",
+    "program_uri": "http://www.integraxor.com/blog/integraxor-hmi-scada-bug-bounty-program/",
+    "reward_type" : "Swag",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "integraxor.com", "scope" : "include" },
+      {"DnsRecord" : "www.integraxor.com", "scope" : "exclude" },
+      {"SoftwarePackage" : "http://www.integraxor.com/download.html", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "program_name": "DoSomething",
+    "program_uri": "https://www.crowdcurity.com/dosomething",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$300",
+    "scope": [
+      {"DnsRecord" : "www.dosomething.org", "scope" : "include" },
+      {"DnsRecord" : "dosomething.org", "scope" : "include" },
+      {"DnsRecord" : "store.dosomething.org", "scope" : "exclude" },
+      {"DnsRecord" : "fedup.dosomething.org", "scope" : "exclude" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Appcelerator",
+    "program_uri": "https://www.appcelerator.com/privacy/responsible-disclosure-of-security-vulnerabilities/",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.appcelerator.com", "scope" : "include" },
+      {"DnsRecord" : "appcelerator.com", "scope" : "include" }
+    ]
+}

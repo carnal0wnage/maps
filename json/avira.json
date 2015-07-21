@@ -1,0 +1,11 @@
+{
+    "program_name": "Avira",
+    "program_uri": "http://www.avira.com/en/support-vulnerability",
+    "reward_type" : "NONE",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.avira.com", "scope" : "include" },
+      {"DnsRecord" : "avira.com", "scope" : "include" }
+    ]
+}

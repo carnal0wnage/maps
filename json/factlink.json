@@ -1,0 +1,12 @@
+{
+    "program_name": "factlink",
+    "program_uri": "https://hackerone.com/factlink",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "staging.factlink.com", "scope" : "include" },
+      {"SoftwarePackage" : "https://github.com/Factlink", "scope" : "include" },
+      {"DnsRecord" : "factlink.com", "scope" : "exclude" }
+    ]
+}

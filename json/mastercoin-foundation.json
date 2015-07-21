@@ -1,0 +1,12 @@
+{
+    "program_name": "The Mastercoin Foundation",
+    "program_uri": "https://www.crowdcurity.com/the-mastercoin-foundation",
+    "reward_type" : "Dollars",
+    "reward_low": "$25",
+    "reward_high": "$450",
+    "scope": [
+      {"DnsRecord" : "www.omniwallet.org", "scope" : "include" },
+      {"DnsRecord" : "omniwallet.org", "scope" : "include" },
+      {"SoftwarePackage" : "github.com/mastercoin-MSC/omniwallet", "scope" : "include" }
+    ]
+}

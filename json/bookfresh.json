@@ -1,0 +1,11 @@
+{
+    "program_name": "Bookfresh",
+    "program_uri": "https://hackerone.com/bookfresh",
+    "reward_type" : "Points + Dollars",
+    "reward_low": "UKNOWN",
+    "reward_high": "UKNOWN",
+    "scope": [
+      {"DnsRecord" : "bookfresh.com", "scope" : "include" },
+      {"DnsRecord" : "www.bookfresh.com", "scope" : "include" }
+    ]
+}

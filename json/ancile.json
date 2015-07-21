@@ -1,0 +1,12 @@
+{
+    "program_name": "ANCILE Solutions Inc.",
+    "program_uri": "https://bugcrowd.com/ancile",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "kickme.ancileualign.com", "scope" : "include" },
+      {"DnsRecord" : "www.ancileualign.com", "scope" : "exclude" },
+      {"DnsRecord" : "ancileualign.com", "scope" : "exclude" }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "program_name": "mcprohostings",
+    "program_uri": "https://bugcrowd.com/mcprohostings",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.mcprohosting.com", "scope" : "include" },
+      {"DnsRecord" : "mcprohosting.com", "scope" : "include" },
+      {"DnsRecord" : "multicraft.mcprohosting.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Kyup",
+    "program_uri": "https://kyup.com/bounty?gcorigin=1",
+    "reward_type" : "Dollars",
+    "reward_low": "$10",
+    "reward_high": "$200",
+    "scope": [
+      {"DnsRecord" : "www.kyup.com", "scope" : "include" },
+      {"DnsRecord" : "kyup.com", "scope" : "include" }
+    ]
+}

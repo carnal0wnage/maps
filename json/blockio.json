@@ -1,0 +1,11 @@
+{
+    "program_name": "Block.io",
+    "program_uri": "https://hackerone.com/blockio",
+    "reward_type" : "Dollars",
+    "reward_low": "$10",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "block.io", "scope" : "include" },
+      {"DnsRecord" : "www.block.io", "scope" : "include" }
+    ]
+}

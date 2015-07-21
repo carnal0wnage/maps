@@ -1,0 +1,11 @@
+{
+    "program_name": "Ethereum",
+    "program_uri": "bounty.ethdev.com",
+    "reward_type" : "Bitcoin",
+    "reward_low": "0.05 BTC",
+    "reward_high": "25 BTC",
+    "scope": [
+      {"DnsRecord" : "www.ethdev.com", "scope" : "include" },
+      {"DnsRecord" : "ethdev.com", "scope" : "include" }
+    ]
+}

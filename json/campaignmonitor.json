@@ -1,0 +1,11 @@
+{
+    "program_name": "Campaign Monitor",
+    "program_uri": "https://help.campaignmonitor.com/contact",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.", "scope" : "include" },
+      {"DnsRecord" : "campaignmonitor.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "CodePen",
+    "program_uri": "https://bugcrowd.com/codepen",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.codepen.io", "scope" : "include" },
+      {"DnsRecord" : "codepen.io", "scope" : "include" }
+    ]
+}

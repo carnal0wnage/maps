@@ -1,0 +1,11 @@
+{
+    "program_name": "cloudflare",
+    "program_uri": "https://hackerone.com/cloudflare",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.cloudflare.com", "scope" : "include" },
+      {"DnsRecord" : "cloudflare.com", "scope" : "include" }
+    ]
+}

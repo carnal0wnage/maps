@@ -1,0 +1,13 @@
+{
+    "program_name": "Piwik Open Source Analytics",
+    "program_uri": "https://www.crowdcurity.com/piwik-open-source-analytics",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$500",
+    "scope":
+    [
+      {"SoftwarePackage" : "github.com/piwik/piwik", "scope" : "include" },
+      {"DnsRecord" : "piwik.pro", "scope" : "exclude" },
+      {"DnsRecord" : "piwik.org", "scope" : "exclude" }
+    ]
+}

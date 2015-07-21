@@ -1,0 +1,11 @@
+{
+    "program_name": "Bitspark",
+    "program_uri": "https://www.crowdcurity.com/bitspark",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.bitspark.io", "scope" : "include" },
+      {"DnsRecord" : "bitspark.io", "scope" : "include" }
+    ]
+}

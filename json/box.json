@@ -1,0 +1,11 @@
+{
+    "program_name": "Box.com",
+    "program_uri": "https://www.box.com/about-us/security/",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.box.com", "scope" : "include" },
+      {"DnsRecord" : "box.com", "scope" : "include" }
+    ]
+}

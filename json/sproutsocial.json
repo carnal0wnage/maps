@@ -1,0 +1,13 @@
+{
+    "program_name": "SproutSocial",
+    "program_uri": "https://bugcrowd.com/sproutsocial",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.sproutsocial.com", "scope" : "include" },
+      {"DnsRecord" : "sproutsocial.com", "scope" : "include" },
+      {"DnsRecord" : "jobboard.sproutsocial.com", "scope" : "exclude" },
+      {"DnsRecord" : "sproutsocial.com/insights", "scope" : "exclude" }
+    ]
+}

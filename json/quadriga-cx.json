@@ -1,0 +1,10 @@
+{
+    "program_name": "Quadriga CX",
+    "program_uri": "https://www.crowdcurity.com/quadriga-cx",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 50",
+    "reward_high": "mB 1000",
+    "scope": [
+      {"DnsRecord" : "dev.quadrigacx.com", "scope" : "include" }
+    ]
+}

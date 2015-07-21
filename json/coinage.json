@@ -1,0 +1,11 @@
+{
+    "program_name": "Coinage",
+    "program_uri": "https://www.crowdcurity.com/coinage",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 50",
+    "reward_high": "mB 600",
+    "scope": [
+      {"DnsRecord" : "coinage.ph", "scope" : "include" },
+      {"DnsRecord" : "www.coinage.ph", "scope" : "include" }
+    ]
+}

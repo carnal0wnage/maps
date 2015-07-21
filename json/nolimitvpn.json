@@ -1,0 +1,17 @@
+{
+    "program_name": "nolimitvpn",
+    "program_uri": "https://bugcrowd.com/nolimitvpn",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.nolimitvpn.com", "scope" : "include" },
+      {"DnsRecord" : "nolimitvpn.com", "scope" : "include" },
+      {"DnsRecord" : "cloudflare.com", "scope" : "exclude" },
+      {"DnsRecord" : "mandrillapp.com", "scope" : "exclude" },
+      {"DnsRecord" : "maxmind.com", "scope" : "exclude" },
+      {"DnsRecord" : "stripe.com", "scope" : "exclude" },
+      {"DnsRecord" : "recaptcha.com", "scope" : "exclude" },
+      {"DnsRecord" : "zopim.com", "scope" : "exclude" }
+    ]
+}

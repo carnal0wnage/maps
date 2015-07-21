@@ -1,0 +1,11 @@
+{
+    "program_name": "NoPass",
+    "program_uri": "https://www.crowdcurity.com/nopass",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "nopassapp.com", "scope" : "include" },
+      {"DnsRecord" : "www.nopassapp.com", "scope" : "include" }
+    ]
+}

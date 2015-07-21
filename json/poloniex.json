@@ -1,0 +1,11 @@
+{
+    "program_name": "Poloniex",
+    "program_uri": "https://www.crowdcurity.com/poloniex",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 2000",
+    "reward_high": "mB 50",
+    "scope": [
+      {"DnsRecord" : "www.poloniex.com", "scope" : "include" },
+      {"DnsRecord" : "poloniex.com", "scope" : "include" }
+    ]
+}

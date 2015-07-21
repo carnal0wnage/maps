@@ -1,0 +1,11 @@
+{
+    "program_name": "moneystream",
+    "program_uri": "https://hackerone.com/moneystream",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.moneystream.com", "scope" : "include" },
+      {"DnsRecord" : "moneystream.com", "scope" : "include" }
+    ]
+}

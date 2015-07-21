@@ -1,0 +1,12 @@
+{
+    "program_name": "BTCXchange.ro",
+    "program_uri": "https://www.crowdcurity.com/btcxchange-ro",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 100",
+    "reward_high": "mB 1500",
+    "scope": [
+      {"DnsRecord" : "www.btcxchange.ro", "scope" : "include" },
+      {"DnsRecord" : "btcxchange.ro", "scope" : "include" },
+      {"DnsRecord" : "api.btcxchange.ro", "scope" : "include" }
+    ]
+}

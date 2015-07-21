@@ -1,0 +1,6 @@
+https://www.honeywell.com/
+REDIRECTING!
+https://honeywell.com/
+https://honeywell.com/Pages/Home.aspx
+https://honeywell.com/_layouts/Authenticate.aspx?Source=/Pages/Home.aspx
+https://honeywell.com/Pages/Home.aspx

@@ -1,0 +1,19 @@
+{
+    "program_name": "Bugcrowd",
+    "program_uri": "https://bugcrowd.com/bugcrowd",
+    "reward_type" : "Dollars",
+    "reward_low": "$200",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "www.bugcrowd.com", "scope" : "include" },
+      {"DnsRecord" : "blog.bugcrowd.com", "scope" : "include" },
+      {"DnsRecord" : "heroku.com", "scope" : "exclude" },
+      {"DnsRecord" : "pagely.com", "scope" : "exclude" },
+      {"DnsRecord" : "zendesk.com", "scope" : "exclude" },
+      {"DnsRecord" : "rubygems.com", "scope" : "exclude" },
+      {"DnsRecord" : "mandrillapp.com", "scope" : "exclude" },
+      {"DnsRecord" : "wufoo.eu", "scope" : "exclude" },
+      {"DnsRecord" : "wufoo.com", "scope" : "exclude" },
+      {"DnsRecord" : "pages.bugcrowd.com", "scope" : "exclude" }
+    ]
+}

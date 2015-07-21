@@ -1,0 +1,13 @@
+{
+    "program_name": "Nearby",
+    "program_uri": "https://hackerone.com/nearby",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.nearby.social", "scope" : "include" },
+      {"DnsRecord" : "nearby.social", "scope" : "include" },
+      {"DnsRecord" : "www.wnmlive.com", "scope" : "include" },
+      {"DnsRecord" : "wnmlive.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Adobe",
+    "program_uri": "https://hackerone.com/adobe",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.adobe.com", "scope" : "include" },
+      {"DnsRecord" : "adobe.com", "scope" : "include" }
+    ]
+}

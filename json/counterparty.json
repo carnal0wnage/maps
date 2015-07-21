@@ -1,0 +1,11 @@
+{
+    "program_name": "Counterparty",
+    "program_uri": "https://www.crowdcurity.com/counterparty",
+    "reward_type" : "Dollars",
+    "reward_low": "$20",
+    "reward_high": "$1500",
+    "scope": [
+      {"DnsRecord" : "counterwallet.io", "scope" : "include" },
+      {"DnsRecord" : "www.counterwallet.io", "scope" : "include" }
+    ]
+}

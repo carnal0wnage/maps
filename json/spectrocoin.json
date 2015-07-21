@@ -1,0 +1,11 @@
+{
+    "program_name": "SpectroCoin",
+    "program_uri": "https://www.crowdcurity.com/spectrocoin",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 50",
+    "reward_high": "mB 450",
+    "scope": [
+      {"DnsRecord" : "www.spectrocoin.com", "scope" : "include" },
+      {"DnsRecord" : "spectrocoin.com/", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "program_name": "Billy's Billing",
+    "program_uri": "https://www.crowdcurity.com/billys-billing",
+    "reward_type" : "Dolalrs",
+    "reward_low": "$50",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "customer.billysbilling.com", "scope" : "include" },
+      {"DnsRecord" : "app.billysbilling.com", "scope" : "include" },
+      {"DnsRecord" : "api.billysbilling.com", "scope" : "include" },
+      {"DnsRecord" : "Billysbilling.com", "scope" : "exclude" },
+      {"DnsRecord" : "Billysbilling.dk", "scope" : "exclude" }
+    ]
+}

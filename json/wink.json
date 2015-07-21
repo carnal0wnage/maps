@@ -1,0 +1,14 @@
+{
+    "program_name": "Wink",
+    "program_uri": "https://bugcrowd.com/winkongoing",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$500",
+    "scope": [
+      {"Hardware" : "Wink Hub (Hardware) - v1 Model # PWHUB-WH01", "scope" : "include" },
+      {"Hardware" : "Wink Hub (Hardware) - v1.5 Model # PWHUB-WH15", "scope" : "include" },
+      {"Hardware" : "Wink Relay (Hardware) - v1 Model # PRLAY-WH01", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.quirky.android.wink.wink", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/wink-simpler-way-to-smarter/id719287124", "scope" : "include" }
+    ]
+}

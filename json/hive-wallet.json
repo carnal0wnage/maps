@@ -1,0 +1,12 @@
+{
+    "program_name": "Hive Wallet",
+    "program_uri": "https://www.crowdcurity.com/hive-wallet",
+    "reward_type" : "",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "hive-js.herokuapp.com", "scope" : "include" },
+      {"DnsRecord" : "herokuapp.com", "scope" : "exclude" },
+      {"SoftwarePackage" : "github.com/hivewallet/hive-js", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "program_name": "GreenAddress",
+    "program_uri": "https://www.crowdcurity.com/greenaddress",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "greenaddress.it", "scope" : "include" },
+      {"SoftwarePackage" : "github.com/greenaddress", "scope" : "include" },
+      {"DnsRecord" : "blog.greenaddress.it", "scope" : "exclude" },
+      {"DnsRecord" : "translate.greenaddress.it", "scope" : "exclude" },
+      {"DnsRecord" : "test.greenaddress.it", "scope" : "exclude" }
+
+    ]
+}

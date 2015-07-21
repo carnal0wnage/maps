@@ -1,0 +1,10 @@
+{
+    "program_name": "Ghostscript",
+    "program_uri": "http://ghostscript.com/Bug_bounty_program.html",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$1000",
+    "scope": [
+      {"SoftwarePackage" : "http://ghostscript.com/download/", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "program_name": "jsDelivr",
+    "program_uri": "https://hackerone.com/jsdelivr",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "staging.jsdelivr.net ", "scope" : "include" },
+      {"DnsRecord" : "jsdelivr.net", "scope" : "exclude" },
+      {"DnsRecord" : "jsdelivr.com", "scope" : "exclude" }
+    ]
+}

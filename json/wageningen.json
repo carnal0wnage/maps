@@ -1,0 +1,11 @@
+{
+    "program_name": "Wageningen",
+    "program_uri": "http://www.wageningen.nl/Configuratie/Responsible_Disclosure",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.wageningen.nl", "scope" : "include" },
+      {"DnsRecord" : "wageningen.nl", "scope" : "include" }
+    ]
+}

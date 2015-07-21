@@ -1,0 +1,14 @@
+{
+    "program_name": "",
+    "program_uri": "",
+    "reward_type" : "",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "", "scope" : "include" },
+      {"DnsRecord" : "", "scope" : "include" },
+      {"DnsRecord" : "", "scope" : "exclude" },
+      {"Mobile" : "", "scope" : "include" },
+      {"SoftwarePackage" : "", "scope" : "include" }
+    ]
+}

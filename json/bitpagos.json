@@ -1,0 +1,11 @@
+{
+    "program_name": "Bitpagos",
+    "program_uri": "https://www.crowdcurity.com/bitpagos",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 1000",
+    "reward_high": "mB 50",
+    "scope": [
+      {"DnsRecord" : "www.bitpagos.com", "scope" : "include" },
+      {"DnsRecord" : "bitpagos.com", "scope" : "include" }
+    ]
+}

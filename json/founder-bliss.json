@@ -1,0 +1,18 @@
+{
+    "program_name": "Founder Bliss",
+    "program_uri": "https://www.crowdcurity.com/founder-bliss",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.founderbliss.com", "scope" : "include" },
+      {"DnsRecord" : "app.founderbliss.com", "scope" : "include" },
+      {"DnsRecord" : "beta.founderbliss.com", "scope" : "include" },
+      {"DnsRecord" : "intercom.io", "scope" : "exclude" },
+      {"DnsRecord" : "mandrillapp.com", "scope" : "exclude" },
+      {"DnsRecord" : "inspectlet.com", "scope" : "exclude" },
+      {"DnsRecord" : "wpengine.com", "scope" : "exclude" },
+      {"DnsRecord" : "stripe.com", "scope" : "exclude" }
+
+    ]
+}

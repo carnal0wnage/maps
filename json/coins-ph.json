@@ -1,0 +1,12 @@
+{
+    "program_name": "Coins.ph",
+    "program_uri": "https://www.crowdcurity.com/coins-ph",
+    "reward_type" : "Bitcoin",
+    "reward_low": "mB 50",
+    "reward_high": "mB 1000",
+    "scope": [
+      {"DnsRecord" : "www.coins.ph", "scope" : "include" },
+      {"DnsRecord" : "coins.ph", "scope" : "include" },
+      {"DnsRecord" : "blog.coins.ph", "scope" : "exclude" }
+    ]
+}

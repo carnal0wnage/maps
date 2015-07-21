@@ -1,0 +1,11 @@
+{
+    "program_name": "cPaperless",
+    "program_uri": "http://www.cpaperless.com/securitystatement.aspx",
+    "reward_type" : "None",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.cpaperless.com", "scope" : "include" },
+      {"DnsRecord" : "cpaperless.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "program_name": "Bugify",
+    "program_uri": "https://bugify.com/security",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.bugify.com", "scope" : "include" },
+      {"DnsRecord" : "bugify.com", "scope" : "include" }
+    ]
+}

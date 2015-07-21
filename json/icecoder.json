@@ -1,0 +1,12 @@
+{
+    "program_name": "ICEcoder",
+    "program_uri": "https://bugcrowd.com/icecoder",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "icecoder.net", "scope" : "include" },
+      {"DnsRecord" : "www.icecoder.net", "scope" : "include" },
+      {"SoftwarePackage" : "https://icecoder.net/downloads", "scope" : "include" }
+    ]
+}

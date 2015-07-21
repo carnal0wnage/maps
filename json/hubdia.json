@@ -1,0 +1,13 @@
+{
+    "program_name": "hubdia",
+    "program_uri": "https://hackerone.com/hubdia",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.hubdia.com", "scope" : "include" },
+      {"DnsRecord" : "hubdia.com", "scope" : "include" },
+      {"DnsRecord" : "www.hubdia.net", "scope" : "include" },
+      {"DnsRecord" : "hubdia.net", "scope" : "include" }
+    ]
+}

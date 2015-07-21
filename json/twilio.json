@@ -1,0 +1,12 @@
+{
+    "program_name": "twilio",
+    "program_uri": "https://bugcrowd.com/twilio",
+    "reward_type" : "Reward",
+    "reward_low": "$25",
+    "reward_high": "$250",
+    "scope": [
+      {"DnsRecord" : "www.twilio.com", "scope" : "include" },
+      {"DnsRecord" : "twilio.com", "scope" : "include" },
+      {"DnsRecord" : "api.twilio.com", "scope" : "include" }
+    ]
+}

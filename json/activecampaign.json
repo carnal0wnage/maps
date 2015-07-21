@@ -1,0 +1,11 @@
+{
+    "program_name": "Active Campaign",
+    "program_uri": "http://www.activecampaign.com/security/",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.activecampaign.com", "scope" : "include" },
+      {"DnsRecord" : "activecampaign.com", "scope" : "include" }
+    ]
+}

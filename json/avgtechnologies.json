@@ -1,0 +1,11 @@
+{
+    "program_name": "AVG technologies",
+    "program_uri": "https://bugcrowd.com/avgtechnologies",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"SoftwarePackage" : "http://www.avg.com/us-en/free-antivirus-download", "scope" : "include" },
+      {"SoftwarePackage" : "http://www.avg.com/us-en/internet-security", "scope" : "include" }
+    ]
+}

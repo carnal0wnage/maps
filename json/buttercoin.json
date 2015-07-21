@@ -1,0 +1,11 @@
+{
+    "program_name": "Buttercoin",
+    "program_uri": "https://www.crowdcurity.com/buttercoin",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$2000",
+    "scope": [
+      {"DnsRecord" : "www.buttercoin.com", "scope" : "include" },
+      {"DnsRecord" : "api.buttercoin.com", "scope" : "include" }
+    ]
+}

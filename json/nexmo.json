@@ -1,0 +1,17 @@
+{
+    "program_name": "Nexmo",
+    "program_uri": "https://www.crowdcurity.com/nexmo",
+    "reward_type" : "Points",
+    "reward_low": "$50",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "rest.nexmo.com", "scope" : "include" },
+      {"DnsRecord" : "api.nexmo.com", "scope" : "include" },
+      {"DnsRecord" : "dashboard.nexmo.com", "scope" : "exclude" },
+      {"DnsRecord" : "a.nexmo.com", "scope" : "exclude" },
+      {"DnsRecord" : "www.nexmo.com", "scope" : "exclude" },
+      {"DnsRecord" : "labs.nexmo.com", "scope" : "exclude" },
+      {"DnsRecord" : "docs.nexmo.com", "scope" : "exclude" },
+      {"DnsRecord" : "help.nexmo.com", "scope" : "exclude" }
+    ]
+}

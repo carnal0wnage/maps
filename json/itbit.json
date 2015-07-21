@@ -1,0 +1,17 @@
+{
+    "program_name": "ItBit Exchange",
+    "program_uri": "https://hackerone.com/itbit",
+    "reward_type" : "Dollars",
+    "reward_low": "$25",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "beta.itbit.com", "scope" : "include" },
+      {"DnsRecord" : "www.itbit.com", "scope" : "include" },
+      {"DnsRecord" : "itbit.com", "scope" : "include" },
+      {"DnsRecord" : "itbit.desk.com", "scope" : "exclude" },
+      {"DnsRecord" : "blog.itbit.com", "scope" : "exclude" },
+      {"DnsRecord" : " support.itbit.com", "scope" : "exclude" },
+      {"DnsRecord" : "w3.itbit.com", "scope" : "exclude" }
+
+    ]
+}

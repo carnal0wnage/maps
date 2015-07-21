@@ -1,0 +1,15 @@
+{
+    "program_name": "QIWI",
+    "program_uri": "https://hackerone.com/qiwi",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "www.qiwi.ru", "scope" : "include" },
+      {"DnsRecord" : "qiwi.ru", "scope" : "include" },
+      {"DnsRecord" : "www.qiwi.com", "scope" : "include" },
+      {"DnsRecord" : "qiwi.com", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=ru.mw&hl=en", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/visa-qiwi-wallet/id350905609?mt=8", "scope" : "include" }
+    ]
+}

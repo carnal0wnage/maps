@@ -1,0 +1,12 @@
+{
+    "program_name": "MaiCoin",
+    "program_uri": "https://www.crowdcurity.com/maicoin",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "dev.maicoin.com", "scope" : "include" },
+      {"DnsRecord" : "www.maicoin.com", "scope" : "include" },
+      {"DnsRecord" : "maicoin.com", "scope" : "include" }
+    ]
+}

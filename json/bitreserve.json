@@ -1,0 +1,13 @@
+{
+    "program_name": "Bitreserve",
+    "program_uri": "https://www.crowdcurity.com/bitreserve",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "www.bitreserve.org", "scope" : "include" },
+      {"DnsRecord" : "e.bitreserve.org", "scope" : "exclude" },
+      {"DnsRecord" : "vpn.bitreserve.org", "scope" : "exclude" },
+      {"DnsRecord" : "customer.io", "scope" : "exclude" }
+    ]
+}

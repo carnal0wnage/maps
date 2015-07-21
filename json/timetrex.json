@@ -1,0 +1,11 @@
+{
+    "program_name": "TimeTrex",
+    "program_uri": "https://www.crowdcurity.com/timetrex",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "https://demo.timetrex.com/interface/html5/", "scope" : "include" },
+      {"SoftwarePackage" : "sourceforge.net/projects/timetrex/", "scope" : "include" }
+    ]
+}

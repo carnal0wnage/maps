@@ -1,0 +1,11 @@
+{
+    "program_name": "inVision",
+    "program_uri": "https://hackerone.com/invision",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "invisionapp.com", "scope" : "include" },
+      {"DnsRecord" : "www.invisionapp.com", "scope" : "include" }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "program_name": "okcupid",
+    "program_uri": "https://hackerone.com/okcupid",
+    "reward_type" : "Point",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.okcupid.com", "scope" : "include" },
+      {"DnsRecord" : "okcupid.com", "scope" : "include" },
+      {"DnsRecord" : "www.okccdn.com", "scope" : "include" },
+      {"DnsRecord" : "okccdn.com", "scope" : "include" }
+    ]
+}

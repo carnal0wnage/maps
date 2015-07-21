@@ -1,0 +1,11 @@
+{
+    "program_name": "AT&T",
+    "program_uri": "https://bugbounty.att.com/home.php",
+    "reward_type" : "Dollars",
+    "reward_low": "UNKNOWN",
+    "reward_high": "UNKNOWN",
+    "scope": [
+      {"DnsRecord" : "www.att.com", "scope" : "include" },
+      {"DnsRecord" : "att.com", "scope" : "include" }
+    ]
+}

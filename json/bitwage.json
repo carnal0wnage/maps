@@ -1,0 +1,11 @@
+{
+    "program_name": "Bitwage",
+    "program_uri": "https://www.crowdcurity.com/bitwage",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.bitwage.co", "scope" : "include" },
+      {"DnsRecord" : "bitwage.co", "scope" : "include" }
+    ]
+}

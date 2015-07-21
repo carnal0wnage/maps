@@ -1,0 +1,11 @@
+{
+    "program_name": "Firebase",
+    "program_uri": "https://www.firebase.com/docs/help/",
+    "reward_type" : "Swag",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "Firebase.com", "scope" : "include" },
+      {"DnsRecord" : "Firebase.com", "scope" : "include" }
+    ]
+}

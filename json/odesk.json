@@ -1,0 +1,11 @@
+{
+    "program_name": "odesk",
+    "program_uri": "https://bugcrowd.com/odesk",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.odesk.com", "scope" : "include" },
+      {"DnsRecord" : "odesk.com", "scope" : "include" }
+    ]
+}

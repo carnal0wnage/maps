@@ -1,0 +1,11 @@
+{
+    "program_name": "relateiq",
+    "program_uri": "https://hackerone.com/relateiq",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "relateiq.com", "scope" : "include" },
+      {"DnsRecord" : "www.relateiq.com", "scope" : "include" }
+    ]
+}

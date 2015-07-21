@@ -1,0 +1,11 @@
+{
+    "program_name": "Mobile Vikings",
+    "program_uri": "https://hackerone.com/mobilevikings",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.mobilevikings.be", "scope" : "include" },
+      {"DnsRecord" : "mobilevikings.be", "scope" : "include" }
+    ]
+}

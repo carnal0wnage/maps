@@ -1,0 +1,12 @@
+{
+    "program_name": "Tagged",
+    "program_uri": "https://bugcrowd.com/Tagged",
+    "reward_type" : "Dollars",
+    "reward_low": "$100",
+    "reward_high": "$500",
+    "scope": [
+      {"DnsRecord" : "www.tagged.com", "scope" : "include" },
+      {"DnsRecord" : "tagged.com", "scope" : "include" },
+      {"DnsRecord" : "hi5.com", "scope" : "exclude" }
+    ]
+}

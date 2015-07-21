@@ -1,0 +1,13 @@
+{
+    "program_name": "GlassWire",
+    "program_uri": "https://hackerone.com/glasswire",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.glasswire.com", "scope" : "include" },
+      {"DnsRecord" : "glasswire.com", "scope" : "include" },
+      {"DnsRecord" : "forum.glasswire.com", "scope" : "exclude" },
+      {"DnsRecord" : "blog.glasswire.com ", "scope" : "exclude" }
+    ]
+}

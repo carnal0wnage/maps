@@ -1,0 +1,12 @@
+{
+    "program_name": "EverNote",
+    "program_uri": "https://evernote.com/security/",
+    "reward_type" : "Wall of Fame",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.evernote.com", "scope" : "include" },
+      {"DnsRecord" : "evernote.com", "scope" : "include" },
+      {"SoftwarePackage" : "https://www.evernote.com/market", "scope" : "include" }
+    ]
+}

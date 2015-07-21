@@ -1,0 +1,12 @@
+{
+    "program_name": "VPNSocks",
+    "program_uri": "https://www.crowdcurity.com/vpnsox",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "dashboard.vpnsox.biz", "scope" : "include" },
+      {"DnsRecord" : "vpnsox.biz", "scope" : "include" },
+      {"DnsRecord" : "www.vpnsox.biz", "scope" : "include" }
+    ]
+}

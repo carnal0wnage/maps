@@ -1,0 +1,13 @@
+{
+    "program_name": "Circle",
+    "program_uri": "https://www.crowdcurity.com/circle",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$1000",
+    "scope": [
+      {"DnsRecord" : "www.circle.com", "scope" : "include" },
+      {"DnsRecord" : "circle.com", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/circle-events-concerts-happenings/id488720081?mt=8", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.discovercircle10&hl=en", "scope" : "include" }
+    ]
+}

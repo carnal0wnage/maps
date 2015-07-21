@@ -1,0 +1,15 @@
+{
+    "program_name": "freelancer",
+    "program_uri": "https://bugcrowd.com/freelancer",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.freelancer.com", "scope" : "include" },
+      {"DnsRecord" : "freelancer.com", "scope" : "include" },
+      {"DnsRecord" : "www.freemarket.com", "scope" : "include" },
+      {"DnsRecord" : "freemarket.com", "scope" : "include" },
+      {"DnsRecord" : "www.warriorforum.com", "scope" : "include" },
+      {"DnsRecord" : "warriorforum.com", "scope" : "include" }
+    ]
+}

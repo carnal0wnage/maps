@@ -1,0 +1,11 @@
+{
+    "program_name": "Attack-Secure",
+    "program_uri": "http://attack-secure.com/whitehat/",
+    "reward_type" : "Swag + Wall of Fame",
+    "reward_low": "",
+    "reward_high": "",
+    "scope": [
+      {"DnsRecord" : "www.attack-secure.com", "scope" : "include" },
+      {"DnsRecord" : "attack-secure.com", "scope" : "include" }
+    ]
+}

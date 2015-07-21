@@ -1,0 +1,11 @@
+{
+    "program_name": "leetfiles",
+    "program_uri": "https://hackerone.com/leetfiles",
+    "reward_type" : "Points",
+    "reward_low": "0",
+    "reward_high": "0",
+    "scope": [
+      {"DnsRecord" : "www.leetfil.es", "scope" : "include" },
+      {"DnsRecord" : "leetfil.es", "scope" : "include" }
+    ]
+}

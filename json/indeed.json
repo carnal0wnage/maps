@@ -1,0 +1,19 @@
+{
+    "program_name": "indeed",
+    "program_uri": "https://bugcrowd.com/indeed",
+    "reward_type" : "Dollars",
+    "reward_low": "$50",
+    "reward_high": "$1500",
+    "scope": [
+      {"DnsRecord" : "www.indeed.com", "scope" : "include" },
+      {"DnsRecord" : "indeed.com", "scope" : "include" },
+      {"DnsRecord" : "employers.indeed.com", "scope" : "include" },
+      {"DnsRecord" : "ads.indeed.com", "scope" : "include" },
+      {"DnsRecord" : "secure.indeed.com", "scope" : "include" },
+      {"DnsRecord" : "getajob.indeed.com", "scope" : "include" },
+      {"DnsRecord" : "resumatch.indeed.com", "scope" : "include" },
+      {"DnsRecord" : "bugcrowd-testing.mobolt.com", "scope" : "include" },
+      {"Mobile" : "https://itunes.apple.com/us/app/job-search/id309735670?mt=8", "scope" : "include" },
+      {"Mobile" : "https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch", "scope" : "include" }
+    ]
+}
